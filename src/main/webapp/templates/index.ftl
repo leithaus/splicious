@@ -3,7 +3,7 @@
 [#assign content]
 <div>
   <center><h1>Welcome!</h1></center>
-  <center><p>Splicious has joined forces with <a href="synereo.com">Synereo</a>!</p></center>
+  <center><p>Splicious has joined forces with <a href="http://www.synereo.com">Synereo</a>!</p></center>
   <center><p>To learn a little more about Synereo check out this video!</p></center>
 
   <center><iframe width="640" height="360" src="https://www.youtube.com/embed/LJcr0G6O6ME?feature=player_detailpage" frameborder="0" allowfullscreen></iframe></center>  
