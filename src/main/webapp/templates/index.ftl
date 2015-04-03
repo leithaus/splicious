@@ -45,7 +45,7 @@
       and a much more talented designer, Noy Konforty). This month
       we’ve issued the AMPs tokens, and as a token of our appreciation
       of your support we are granting you AMPs. You will be receiving
-      and email about the details of your AMPs grant. AMPs will soon
+      an email about the details of your AMPs grant. AMPs will soon
       be tradeable, but we do hope to be seeing you use them in
       Synereo when we launch the alpha.</p>
 
